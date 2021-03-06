@@ -10,7 +10,7 @@ Divulgação de atividades e projetos desenvolvidos na plataforma Curso em Víde
 * Módulo 1  
     [Repositório Módulo 1 - 2020](https://github.com/MacMenez/Modulo1_HTML5_CSS3-CursoEmVideo)
 * Módulo 2  
-    Ainda não iniciado pela plataforma.
+    [Repositório Módulo 2 - 2021](https://github.com/MacMenez/Modulo2_HTML5_CSS3-CursoEmVideo)
 * Módulo 3  
     Ainda não iniciado pela plataforma.
 * Módulo 4  
